@@ -21,4 +21,21 @@ h3 {
 
 .banner {
   background-image: url("../images/the-flatiron-building.png");
+  color: white;
+  font-size: 18px;
+}
+
+.banner a {
+  color: white;
+}
+
+#footer {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+}
+
+#footer a {
+  color: white;
+  font-size: 18px;
 }
